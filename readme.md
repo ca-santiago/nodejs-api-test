@@ -1,8 +1,6 @@
-## GremDev APIRest
+## Grem Notes manager app
 
 This api is an example of a RestFull API made using Nodejs, Express framework, Mongodb.
-
-There is an example in production running: [Application](http://localhost:3001)
 
 ### Instalation
 Clone the repo
